@@ -55,7 +55,7 @@ h1+p {
 form {
   min-height: 30.0rem;
   padding: 6.4rem;
-  border-radius: 2.0rem 2.0rem 0px 0px;
+  border-radius: 2.0rem 2.0rem 0rem 0rem;
   background: #FFF;
 
   display: flex;
@@ -141,7 +141,7 @@ fieldset p {
 /* Footer */
 footer {
   height: 16.0rem;
-  border-radius: 0px 0px 2.0rem 2.0rem;
+  border-radius: 0rem 0rem 2.0rem 2.0rem;
   background: #535971;
 
   display: flex;
@@ -162,7 +162,7 @@ footer button {
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 10px;
+  gap: 1.0rem;
 
   color: #FFF;
   font-family: Staatliches;
